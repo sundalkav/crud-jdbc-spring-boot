@@ -11,5 +11,4 @@ Junit5
 Maven
 
 ----
-docker-compose up
-run project
+docker-compose up and run project
